@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm A. Moorthi
 
-<!--
-**moorthiwebdesigner-del/moorthiwebdesigner-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Full Stack Developer | AI Engineer
 
-Here are some ideas to get you started:
+💼 15+ Years of Web Development Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- WordPress
+- Shopify
+- React.js
+- Core PHP
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- MySQL
+- REST API
+- AI Automation
+
+### 💻 Currently Working On
+
+- React.js Applications
+- WordPress Plugin Development
+- AI-powered Web Solutions
+- Shopify Custom Development
+
+### 📫 Contact
+
+📧 moorthiwebdesigner@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/moorthi-arumugam-1aa3a229
